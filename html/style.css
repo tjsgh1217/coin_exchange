@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+h1 {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 14px;
+  letter-spacing: 5px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: 0;
+  background-color: gainsboro;
+}
+.other {
+  font-size: 15px;
+  background-color: #cceff0;
+  color: #2f3133;
+  text-align: center;
+  line-height: 1.1;
+  padding: 3px;
+  padding-bottom: 13px;
+}
+.cs {
+  text-decoration: none;
+  background-color: rgb(120, 239, 239);
+  opacity: 0.7;
+}
+.binance {
+  float: left;
+  margin-left: 30px;
+}
+.coinbase {
+  float: right;
+  margin-top: 45px;
+  margin-right: 30px;
+}
+.karaken {
+  margin-top: 85px;
+}
